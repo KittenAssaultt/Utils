@@ -1,0 +1,34 @@
+# 构建输出
+/dist
+/out
+
+# 依赖目录
+/node_modules
+
+# 系统文件
+.DS_Store
+
+# 编辑器文件
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 日志文件
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 本地环境文件
+.env.local
+.env.*.local
+
+# 临时文件
+.temp
+.tmp 
